@@ -146,4 +146,7 @@
                 max-width: 500px;
                 min-width: 500px;
             }
+		 .tweet-container {
+                top: 60px;
+            }
         }
