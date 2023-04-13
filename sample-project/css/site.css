@@ -146,4 +146,7 @@
                 max-width: 500px;
                 min-width: 500px;
             }
+		 .step {
+                font-size: 12px;
+                line-height: 10px;
         }
