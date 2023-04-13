@@ -149,4 +149,8 @@
 		 .tweet-container {
                 top: 60px;
             }
+
+		 .step {
+                font-size: 12px;
+                line-height: 10px;
         }
