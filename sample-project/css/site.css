@@ -131,4 +131,19 @@
                 max-width: 630px;
                 min-width: 630px;
             }
+		 .step {
+                font-size: 10px;
+                line-height: 16px;
+            }
+            .tweet-container {
+                top: 70px;
+            }
+            .content{
+                max-width: 600px;
+                min-width: 600px;
+            }
+            .content{
+                max-width: 500px;
+                min-width: 500px;
+            }
         }
